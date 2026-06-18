@@ -8,7 +8,7 @@ A step by step guide to hosting a website on Azure Cloud
 	• Select the resource group for the storage being created
 	• Provide instance details and storage type
 	• Set performance and redundancy as required standard or premium and LRS for low cost or GZRS for optimal data protection
-	• Create and deploy
+	• Review and Create
 ## Step 3
 	• Go to Data management and click static website or the resource created and 'enable'
 	• Enter index document name as 'index.html' and error doc path as '404.html' and save
